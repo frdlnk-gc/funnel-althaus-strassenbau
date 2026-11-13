@@ -1,0 +1,117 @@
+{
+ "firma": "Althaus",
+ "firma_genitiv": "von Althaus Straßen- und Tiefbau",
+ "stelle": "Vorarbeiter Straßen- und Tiefbau (m/w/d)",
+ "ort": "Stadtlohn",
+ "plz": "48703",
+ "branche": "strassen_tiefbau",
+ "stelle_id": 291,
+ "farbe_primary": "#0B418C",
+ "farbe_secondary": "#5BBA06",
+ "region_badge": "Stadtlohn & Umgebung",
+ "benefit_top": "Kurzer Freitag & Urlaubsgeld",
+ "benefits": [
+  "Unbefristeter Arbeitsvertrag in Vollzeit",
+  "Kurzer Freitag",
+  "Urlaubsgeld & Weihnachtsgeld",
+  "Betriebliche Altersvorsorge & vermögenswirksame Leistungen",
+  "Jobrad-Leasing",
+  "Firmenhandy",
+  "Anhängerführerschein – Kosten werden übernommen",
+  "Kostenübernahme für berufliche Zertifizierungen",
+  "Flache Hierarchien & freundliches Arbeitsklima",
+  "Strukturierte Abläufe",
+  "Regelmäßige Firmenfeiern"
+ ],
+ "aufgaben": [
+  "Du bist Ansprechpartner auf der Baustelle – für Auftraggeber, Anlieger, Lieferanten und Nachunternehmer",
+  "Du führst und leitest deine Kollegen an und gibst handwerkliches Können weiter",
+  "Du übernimmst Absteckungsarbeiten (Lage und Höhe)",
+  "Du ermittelst den Materialbedarf und kümmerst dich um die Disposition",
+  "Du arbeitest aktiv auf der Baustelle mit, inklusive Maschinenbedienung"
+ ],
+ "anforderung": "Eine abgeschlossene Ausbildung im Baubereich oder entsprechende Erfahrung in diesem Bereich, Führerschein mindestens Klasse B und die Bereitschaft zu Auswärtsbaustellen.",
+ "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+ "fachrichtungen": [
+  {
+   "label": "Straßenbau / Tiefbau",
+   "icon": "🚧",
+   "qualifikationen": [
+    {
+     "label": "Ausgelernt / Geselle",
+     "icon": "🎓"
+    },
+    {
+     "label": "Vorarbeiter / Polier / Meister",
+     "icon": "🏅"
+    },
+    {
+     "label": "Mehrjährige Erfahrung ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Anderer Baubereich",
+   "icon": "🏗️",
+   "qualifikationen": [
+    {
+     "label": "Ausgelernt / Geselle",
+     "icon": "🎓"
+    },
+    {
+     "label": "Vorarbeiter / Polier / Meister",
+     "icon": "🏅"
+    },
+    {
+     "label": "Mehrjährige Erfahrung ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Anderer Bereich",
+   "icon": "🔄",
+   "qualifikationen": [
+    {
+     "label": "Ausbildung in anderem Beruf",
+     "icon": "📘"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Mehrjährige Praxis ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  }
+ ],
+ "ueber": {
+  "fakten": [],
+  "text": "Die Althaus GmbH & Co. KG, Straßen- und Tiefbau aus Stadtlohn führt alle Arbeiten rund um den Straßenbau aus: von Erdarbeiten, Entwässerungsarbeiten und der Erstellung des Unterbaus über das Verlegen von Bordsteinen und Rinnen bis zu Oberflächen aus Pflaster und Asphalt – mit eigenem Asphaltfertiger. Wichtig sind Teamgeist und Kommunikation auf Augenhöhe: ein motiviertes Team, das mit Spaß und Hirn arbeitet."
+ },
+ "kunde_tab": "52 Althaus Straßenbau",
+ "quelle": "https://althaus-strassenbau.green-careers.de",
+ "logo": "logo.png",
+ "karte": {
+  "bild": "img/karte.jpg",
+  "label": "Stadtlohn (48703)"
+ },
+ "hero_bild": "img/hero-asphaltfertiger.jpg",
+ "bilder": [
+  "img/f1-team-transporter.jpg",
+  "img/f2-asphaltfertiger.jpg",
+  "img/f3-asphalt-strasse.jpg",
+  "img/f4-bagger-kreisel.jpg",
+  "img/f5-minibagger.jpg",
+  "img/f6-radlader-sand.jpg",
+  "img/f7-maschinenpark.jpg",
+  "img/f8-grader-weg.jpg",
+  "img/f9-baugrube.jpg"
+ ],
+ "meta_geo": [
+  "Almsick 49, 48703 Stadtlohn"
+ ]
+}
