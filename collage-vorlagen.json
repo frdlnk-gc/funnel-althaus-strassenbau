@@ -1,0 +1,37 @@
+[
+ {
+  "name": "V04-collage",
+  "logo": "logo-hd.png",
+  "fotos": [
+   "raw/f2-asphaltfertiger-full.jpg",
+   "raw/f4-bagger-kreisel-full.jpg",
+   "raw/f6-radlader-sand-full.jpg"
+  ],
+  "fokus": [
+   [
+    0.6,
+    0.5
+   ],
+   [
+    0.6,
+    0.6
+   ],
+   [
+    0.5,
+    0.55
+   ]
+  ],
+  "primary": "#0B418C",
+  "headline": [
+   "Vorarbeiter",
+   "Straßen- & Tiefbau"
+  ],
+  "headline_zusatz": "(m/w/d)",
+  "ort": "Stadtlohn (48703) & Umgebung",
+  "cta": [
+   "Jetzt unverbindliches",
+   "Job-Angebot erhalten –",
+   "mit 1 Klick!"
+  ]
+ }
+]

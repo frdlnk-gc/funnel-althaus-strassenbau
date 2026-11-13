@@ -1,0 +1,44 @@
+[
+ {
+  "name": "V03-checkliste",
+  "logo": "logo-hd.png",
+  "foto": "raw/f1-team-transporter-full.jpg",
+  "primary": "#0B418C",
+  "panel": "bottom",
+  "panel_hoehe": 0.58,
+  "panel_bg": "#FFFFFF",
+  "kicker": "WIR SUCHEN IN STADTLOHN (48703)",
+  "headline": [
+   "Vorarbeiter Straßen-",
+   "und Tiefbau (m/w/d)"
+  ],
+  "checkliste": [
+   "Unbefristet in Vollzeit",
+   "Kurzer Freitag",
+   "Urlaubs- & Weihnachtsgeld"
+  ],
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.5,
+   0.3
+  ]
+ },
+ {
+  "name": "V03-checkliste",
+  "format": "9x16",
+  "logo": "logo-hd.png",
+  "foto": "raw/f8-grader-weg-full.jpg",
+  "primary": "#0B418C",
+  "zoom_9x16": 1.0,
+  "fokus_9x16": [
+   0.5,
+   0.3
+  ],
+  "kicker": "STADTLOHN (48703)",
+  "headline": [
+   "Vorarbeiter Straßen-",
+   "und Tiefbau (m/w/d)"
+  ],
+  "cta": "Job-Angebot in 60 Sek. erhalten"
+ }
+]

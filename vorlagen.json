@@ -8,5 +8,23 @@
   52.0189379,
   7.042037
  ],
- "logo": "logo-hd.png"
+ "logo": "logo-hd.png",
+ "r_sub": "Für alle aus Ahaus, Vreden, Gescher und Umgebung.",
+ "r_avatar": [
+  "raw/f7-maschinenpark-full.jpg",
+  "50% 60%",
+  "cover"
+ ],
+ "sg_photo": [
+  "raw/f2-asphaltfertiger-full.jpg",
+  "50% 50%"
+ ],
+ "sg_ring": [
+  "UNBEFRISTET",
+  "VOLLZEIT"
+ ],
+ "sg_small": "KURZER",
+ "sg_big": "FREITAG",
+ "sg_big_size": 44,
+ "sg_sub": "Urlaubs- und Weihnachtsgeld, Jobrad und ein eigener Asphaltfertiger – bei Althaus in Stadtlohn."
 }
